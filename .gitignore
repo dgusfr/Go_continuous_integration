@@ -26,5 +26,3 @@ vendor/
 .vscode/
 .idea/
 
-# Dados do PostgreSQL
-/postgres-data
